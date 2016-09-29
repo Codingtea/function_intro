@@ -1,0 +1,10 @@
+var myName ="Angelo";
+console.log (typeof myName);
+var myAge = 31;
+console.log(typeof myAge);
+var newDate = new Date();
+console.log(typeof newDate);
+var what = false;
+console.log(typeof what);
+var list = ["Angelo",31,false];
+console.log(typeof list);
