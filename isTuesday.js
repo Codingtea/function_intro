@@ -5,6 +5,7 @@ var isTuesday = function () {
   //check the day ????
   return day === 2;
 
+//console.log (day);
 };
 
 //var d = new Date();
